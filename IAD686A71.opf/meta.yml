@@ -1,0 +1,16 @@
+id: IAD686A71
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:10:20.924061
+last_modified: 2023-02-09 15:10:20.924154
+source_metadata:
+  title: 'MSV 1,15: Śayanāsanavastu'
+  language: bo
+bases:
+  7AD5:
+    base_file: 7AD5.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
